@@ -18,7 +18,7 @@ Practice identifying and fixing common errors in Python code, along with creatin
 
 | Topic |  About |
 | ------ | ------ |
-|  [Exercises](https://git.generalassemb.ly/Modularisation-DSB-sandbox/python-errorhandlinganddebugging/blob/main/errorhandling_debugging_exercises.ipynb) | Code-a-long |
+|  [Exercises](errorhandling_debugging_exercises.ipynb) | Code-a-long |
 
 
 ## Prerequisites
