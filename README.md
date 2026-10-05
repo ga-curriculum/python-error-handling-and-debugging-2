@@ -18,7 +18,7 @@ Practice identifying and fixing common errors in Python code, along with creatin
 
 | Topic |  About |
 | ------ | ------ |
-|  [Exercises](./python-errorhandling-debugging-exercises.ipynb) | Code-a-long |
+|  [Exercises](https://colab.research.google.com/github/ga-curriculum/python-error-handling-and-debugging-2/blob/main/python-errorhandling-debugging-exercises.ipynb){:target="_blank"} | Code-a-long |
 
 
 ## Prerequisites
